@@ -1,0 +1,11 @@
+#pragma once
+#include "BAG.h"
+#include "BOOK.h"
+#include "CAT.h"
+#include "CRAYON.h"
+#include "DOG.h"
+#include "KEY.h"
+#include "MOUSE.h"
+#include "PENCIL.h"
+#include "RAT.h"
+#include "ROCK.h"
